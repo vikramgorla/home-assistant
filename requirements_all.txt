@@ -454,7 +454,7 @@ hole==0.3.0
 holidays==0.9.7
 
 # homeassistant.components.frontend
-home-assistant-frontend==20180917.0
+home-assistant-frontend==20180920.0
 
 # homeassistant.components.homekit_controller
 # homekit==0.10
@@ -507,7 +507,7 @@ jsonrpc-async==0.6
 jsonrpc-websocket==0.6
 
 # homeassistant.scripts.keyring
-keyring==15.0.0
+keyring==15.1.0
 
 # homeassistant.scripts.keyring
 keyrings.alt==3.1
@@ -532,7 +532,7 @@ libpurecoollink==0.4.2
 libpyfoscam==1.0
 
 # homeassistant.components.device_tracker.mikrotik
-librouteros==2.1.0
+librouteros==2.1.1
 
 # homeassistant.components.media_player.soundtouch
 libsoundtouch==0.7.2
@@ -619,7 +619,7 @@ ndms2_client==0.0.4
 netdata==0.1.2
 
 # homeassistant.components.discovery
-netdisco==2.0.0
+netdisco==2.1.0
 
 # homeassistant.components.sensor.neurio_energy
 neurio==0.3.1
@@ -750,6 +750,9 @@ pyCEC==0.4.13
 # homeassistant.components.light.tplink
 # homeassistant.components.switch.tplink
 pyHS100==0.3.3
+
+# homeassistant.components.weather.met
+pyMetno==0.2.0
 
 # homeassistant.components.rfxtrx
 pyRFXtrx==0.23
@@ -1306,7 +1309,7 @@ sense_energy==0.4.2
 sharp_aquos_rc==0.3.2
 
 # homeassistant.components.sensor.shodan
-shodan==1.10.1
+shodan==1.10.2
 
 # homeassistant.components.notify.simplepush
 simplepush==1.1.4
@@ -1531,13 +1534,13 @@ yeelight==0.4.0
 yeelightsunflower==0.0.10
 
 # homeassistant.components.media_extractor
-youtube_dl==2018.09.10
+youtube_dl==2018.09.18
 
 # homeassistant.components.light.zengge
 zengge==0.2
 
 # homeassistant.components.zeroconf
-zeroconf==0.21.1
+zeroconf==0.21.2
 
 # homeassistant.components.climate.zhong_hong
 zhong_hong_hvac==1.0.9
